@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internship-22C55E?style=flat-square&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-Internship-22C55E?style=flat-square" />
 <img src="https://img.shields.io/badge/Focus-Frontend-38BDF8?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-F59E0B?style=flat-square" />
 
@@ -20,46 +20,53 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-Frontend Developer in training at **Saylani Mass IT Training (SMIT)**. I turn ideas into clean, responsive and user-friendly web apps, with a focus on readable code and polished UI details.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 Currently
-- 🎓 Frontend Development @ SMIT Bootcamp
-- ⚛️ Building with React.js & Next.js
-- 🟨 Mastering modern JavaScript (ES6+)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Interests & Goals
-- 🎨 UI/UX & responsive design
-- 🚀 Building real-world applications
-- 💼 Landing a Frontend Developer Internship
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
-## 🛠️ Tech Stack
+<p align="center">
+  Frontend Developer in training at <b>Saylani Mass IT Training (SMIT)</b>.<br/>
+  I turn ideas into clean, responsive and user-friendly web apps,<br/>
+  with a focus on readable code and polished UI details.
+</p>
 
 <div align="center">
 
-**Frontend**
+<table>
+  <tr>
+    <td align="center" width="400">
+      <h3>🔭 Currently</h3>
+      🎓 Frontend Development @ SMIT Bootcamp<br/>
+      ⚛️ Building with React.js & Next.js<br/>
+      🟨 Mastering JavaScript & TypeScript
+    </td>
+    <td align="center" width="400">
+      <h3>🎯 Interests & Goals</h3>
+      🎨 UI/UX & Responsive Design<br/>
+      🚀 Building Real-World Applications<br/>
+      💼 Landing a Frontend Internship
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind&theme=dark" />
+</div>
 
-**Backend & Database**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb&theme=dark" />
+<h2 align="center">🛠️ Tech Stack</h2>
 
-**Tools**
+<div align="center">
+
+<h3>Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui&theme=dark" />
+
+<h3>Backend & Database</h3>
+
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Cloud-Firestore-FF9100?style=for-the-badge&logo=firebase&logoColor=white" />
+
+<h3>Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" />
 
@@ -67,70 +74,64 @@ Frontend Developer in training at **Saylani Mass IT Training (SMIT)**. I turn id
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚛️ Silver Star
-Modern, responsive landing page with a component-based architecture.
-
-`React.js` `Responsive Design`
-
-[📂 Source Code](https://github.com/arhammaqsood-dev/Silver-Star-landing-page) • [🌐 Live Demo](https://silver-star-landing-pagee.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍔 Food Menu App
-Interactive menu with dynamic category filtering.
-
-`HTML` `CSS` `JavaScript` `DOM`
-
-[📂 Source Code](https://github.com/arhammaqsood-dev/Food-Menu-App) • [🌐 Live Demo](https://food-menu-appp.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🪪 Student ID Card Generator
-Generates ID cards with a live preview as you type.
-
-`JavaScript` `DOM` `Dynamic UI`
-
-[📂 Source Code](https://github.com/arhammaqsood-dev/Student-Id-Card-generator) • [🌐 Live Demo](https://student-id-card-generator2.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 Rent A Car
-Responsive car rental website with a clean, modern layout.
-
-`HTML` `CSS` `Bootstrap`
-
-[📂 Source Code](https://github.com/arhammaqsood-dev/RENT-A-CAR-CLONE-ASSIGNMENT) • [🌐 Live Demo](https://rent-a-car-clon.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📘 Facebook UI Clone
-Facebook-inspired interface built to practice responsive layouts.
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-[📂 Source Code](https://github.com/arhammaqsood-dev/FaceBook-Cloned) • [🌐 Live Demo](https://acebook-cloned.netlify.app/login/)
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="400">
+      <h3>⚛️ Silver Star</h3>
+      <p>Modern, responsive landing page with a component-based architecture.</p>
+      <code>React.js</code> <code>Responsive Design</code>
+      <br/><br/>
+      <a href="https://github.com/arhammaqsood-dev/Silver-Star-landing-page">📂 Source Code</a> •
+      <a href="https://silver-star-landing-pagee.vercel.app/">🌐 Live Demo</a>
+    </td>
+    <td align="center" width="400">
+      <h3>🍔 Food Menu App</h3>
+      <p>Interactive menu with dynamic category filtering.</p>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>DOM</code>
+      <br/><br/>
+      <a href="https://github.com/arhammaqsood-dev/Food-Menu-App">📂 Source Code</a> •
+      <a href="https://food-menu-appp.netlify.app/">🌐 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <h3>🪪 Student ID Card Generator</h3>
+      <p>Generates ID cards with a live preview as you type.</p>
+      <code>JavaScript</code> <code>DOM</code> <code>Dynamic UI</code>
+      <br/><br/>
+      <a href="https://github.com/arhammaqsood-dev/Student-Id-Card-generator">📂 Source Code</a> •
+      <a href="https://student-id-card-generator2.netlify.app/">🌐 Live Demo</a>
+    </td>
+    <td align="center" width="400">
+      <h3>🚗 Rent A Car</h3>
+      <p>Responsive car rental website with a clean, modern layout.</p>
+      <code>HTML</code> <code>CSS</code> <code>Bootstrap</code>
+      <br/><br/>
+      <a href="https://github.com/arhammaqsood-dev/RENT-A-CAR-CLONE-ASSIGNMENT">📂 Source Code</a> •
+      <a href="https://rent-a-car-clon.netlify.app/">🌐 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>📘 Facebook UI Clone</h3>
+      <p>Facebook-inspired interface built to practice responsive layouts.</p>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Bootstrap</code>
+      <br/><br/>
+      <a href="https://github.com/arhammaqsood-dev/FaceBook-Cloned">📂 Source Code</a> •
+      <a href="https://acebook-cloned.netlify.app/login/">🌐 Live Demo</a>
+    </td>
+  </tr>
 </table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=arhammaqsood-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -138,7 +139,7 @@ Facebook-inspired interface built to practice responsive layouts.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhammaqsood-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhammaqsood-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -149,7 +150,7 @@ Facebook-inspired interface built to practice responsive layouts.
   <img src="https://github-profile-trophy.vercel.app/?username=arhammaqsood-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -161,9 +162,12 @@ Facebook-inspired interface built to practice responsive layouts.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
-Always happy to connect with developers, learn new technologies, and collaborate on meaningful projects.
+<p align="center">
+  Always happy to connect with developers, learn new technologies,<br/>
+  and collaborate on meaningful projects.
+</p>
 
 <p align="center">
   <a href="https://github.com/arhammaqsood-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
@@ -182,57 +186,3 @@ Always happy to connect with developers, learn new technologies, and collaborate
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0F172A&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
-
-### 🚀 Featured Projects
-
-| Project | Description | Links |
-|---|---|---|
-| **Food Menu App** | Dynamic food menu with category filtering and responsive design built using JavaScript | [Code](https://github.com/arhammaqsood-dev/Food-Menu-App) • [Live Demo](https://food-menu-appp.netlify.app/) |
-| **Student ID Card Generator** | ID card generator with JavaScript DOM manipulation and live preview | [Code](https://github.com/arhammaqsood-dev/Student-Id-Card-generator) • [Live Demo](https://student-id-card-generator2.netlify.app/) |
-| **Rent A Car Clone** | Modern responsive landing page inspired by a professional car rental website | [Code](https://github.com/arhammaqsood-dev/RENT-A-CAR-CLONE-ASSIGNMENT) • [Live Demo](https://rent-a-car-clon.netlify.app/) |
-| **Facebook Clone** | Responsive Facebook UI clone built with HTML, CSS, JS & Bootstrap | [Code](https://github.com/arhammaqsood-dev/FaceBook-Cloned) • [Live Demo](https://acebook-cloned.netlify.app/login/) |
-
-> 🔗 See all projects on my [Portfolio](https://arham-portfolio-o.netlify.app/)
-
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arhammaqsood-dev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=arhammaqsood-dev&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhammaqsood-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arhammaqsood-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=arhammaqsood-dev&icon=0&color=0" />
-</p>
-
-<p align="center">📩 Open to freelance work, collaborations & internships — feel free to reach out!</p>
