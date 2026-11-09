@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:0EA5E9,100:38BDF8&height=260&section=header&text=Arham%20Maqsood&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js&descAlignY=62&descSize=20&animation=twinkling" width="100%" alt="Arham Maqsood" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arham+Maqsood;Frontend+Developer;React.js+%26+Next.js+Enthusiast;SMIT+Bootcamp+Trainee;Building+Modern+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arham+Maqsood;Frontend+Developer;Intern+%40+Saylani+(SMIT)+Bootcamp+8.0;React.js+%26+Next.js+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internship-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Internship-Saylani%20(SMIT)%208.0-22C55E?style=flat-square" />
 <img src="https://img.shields.io/badge/Focus-Frontend-38BDF8?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-F59E0B?style=flat-square" />
 
@@ -23,7 +23,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Frontend Developer in training at <b>Saylani Mass IT Training (SMIT)</b>.<br/>
+  Frontend Developer and Intern at <b>Saylani Mass IT Training (SMIT) Bootcamp 8.0</b>.<br/>
   I turn ideas into clean, responsive and user-friendly web apps,<br/>
   with a focus on readable code and polished UI details.
 </p>
@@ -34,7 +34,7 @@
   <tr>
     <td align="center" width="400">
       <h3>🔭 Currently</h3>
-      🎓 Frontend Development @ SMIT Bootcamp<br/>
+      💼 Internship @ Saylani (SMIT) Bootcamp 8.0<br/>
       ⚛️ Building with React.js & Next.js<br/>
       🟨 Mastering JavaScript & TypeScript
     </td>
@@ -42,7 +42,7 @@
       <h3>🎯 Interests & Goals</h3>
       🎨 UI/UX & Responsive Design<br/>
       🚀 Building Real-World Applications<br/>
-      💼 Landing a Frontend Internship
+      📈 Growing as a Professional Frontend Developer
     </td>
   </tr>
 </table>
