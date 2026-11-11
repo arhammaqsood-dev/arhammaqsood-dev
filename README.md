@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:0EA5E9,100:38BDF8&height=260&section=header&text=Arham%20Maqsood&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js&descAlignY=62&descSize=20&animation=twinkling" width="100%" alt="Arham Maqsood" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:38BDF8&height=240&section=header&text=Arham%20Maqsood&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Arham Maqsood" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arham+Maqsood;Frontend+Developer;Intern+%40+Saylani+(SMIT)+Bootcamp+8.0;React.js+%26+Next.js+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arham+Maqsood;Frontend+Developer;Intern+%40+Saylani+(SMIT)+Bootcamp+8.0;React.js+%26+Next.js+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
 
 <br/>
 
